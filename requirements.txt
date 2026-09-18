@@ -1,0 +1,21 @@
+# Module V - Hands on Labs: Building AI Agents
+# Verified working set (September 2026). Pinned so every student gets the same behaviour.
+#
+# Install with:   pip install -r requirements.txt
+
+langchain==1.4.0
+langchain-text-splitters==1.1.2
+langchain-google-genai==4.4.0
+langgraph==1.2.11
+python-dotenv==1.2.3
+
+# Needed by InMemoryVectorStore to compute cosine similarity (Lab 2, Lab 3).
+# Not pinned exactly, so that pip can pick the build that matches your Python.
+numpy>=1.26
+
+# Tools used in Lab 4
+ddgs==9.16.0
+wikipedia==1.4.0
+
+# Optional - only needed if your knowledge base contains PDF files (Lab 2 stretch task)
+pypdf==6.18.1
