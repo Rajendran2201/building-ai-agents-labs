@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Generated artefacts
+handbook_index.json
+long_term_memory.json
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
