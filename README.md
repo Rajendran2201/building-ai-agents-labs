@@ -1,8 +1,7 @@
-# Building AI Agents — Hands-on Labs (Module V)
+# Building AI Agents — Hands-on Labs 
 
 A complete, step-by-step laboratory module for building production-style AI agents with **LangChain 1.x**, **LangGraph**, and the free **Google Gemini** API.
 
-Designed for B.E. / B.Tech engineering students.  
 **Prerequisite:** basic Python only. No prior AI or machine learning required.
 
 ---
